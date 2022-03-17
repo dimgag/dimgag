@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋, I'm Dimitrios Gagatsis</h1>
+<h4 align="left">Hi 👋, I'm Dimitrios Gagatsis</h1>
 <h3 align="center">I am currently a Data Science Master Student at Maastricht University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimgag&label=Profile%20views&color=0e75b6&style=flat-square" alt="dimgag" /> </p>
