@@ -1,9 +1,13 @@
-<h4 align="left">Hi, I'm Dimitri(o)s Gagatsis</h4>
-<h4 align="left">Since I was young, I fell in love with math… everyone else in my class hated them, but I loved them! My ambition always was to become a mathematician (also an astronaut 👨🏻‍🚀 ). While in the university, everyone was asking me “where maths will be useful, is any random guy in the street going to ask you to solve a differential equation? (maybe 🤔)”. Then I started wondering and data science mesmerised me to answer that type of wonder! Currently, I am in the last year of my MS in Data Science and I am looking forward to solving problems and accepting new challenges! </h4>
+<h4 align="left">Hi, I'm Dimitrios Gagatsis</h4>
+<h4 align="right"> </h4>
+
+<img align="right" src="image1.jpeg" alt="Italian Trulli" width="233" height="305">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimgag&label=Profile%20views&color=0e75b6&style=flat-square" alt="dimgag" /> </p>
 
-- 🌱 I’m currently studying **Deep Learning**
+- 🚀 I’m currently working with **Deep Learning and Computer Vision**
+
+- 🎓 I'm a Master's Student in Data Science at Maastricht University
 
 - 📫 How to reach me **gagatsis94@gmail.com**
 
