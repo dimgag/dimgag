@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dimitriosgagatsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitriosgagatsis" height="30" width="40" /></a>
 <a href="https://instagram.com/dim__gag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dim__gag" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0001-9302-3153" target="blank"><img align="center" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" alt="" height="30" width="30" /></a>
 </p>
 
 -----------------------------------------------------------------------------------------
