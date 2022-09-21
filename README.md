@@ -79,11 +79,8 @@
 
 #### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OC%20Mac-555555?logo=apple&logoColor=white"></a>
-  <a href="#"><img alt="linux" src="https://img.shields.io/badge/-Linux%20-555555?
-  logo=linux&logoColor=white"></a>
-  <a href="#"><img alt="windows" src="https://img.shields.io/badge/-Windows%20-555555?
-  logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-%20MacOS-555555?logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-%20linux-555555?logo=linux&logoColor=white"></a>
 
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-315C66.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
