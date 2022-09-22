@@ -6,7 +6,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Dimitrios!;You+can+call+me+dim+^_^;)
 
 
-<h4 align="left">Hi, I'm Dimitri(o)s Gagatsis</h4>
 <h6 align="justify"> I am a master's student in Data Science for Decision making at Maastricht University in the Department of Advanced Computing Sciences and currently, I am working in Deep Learning and Computer Vision project named <a href="https://github.com/dimgag/deepfood"> Deepfood</a>. Before starting my master’s at Maastricht University, I studied at the University of Ioannina in the Mathematics Department. I discovered my passion for Computer Science after choosing this specialization and studying relevant courses. Courses like Natural Language Processing, Introduction to Programming and Graph Theory made me more curious to discover more deeply this field. After finishing my bachelor, I started a distance learning program at the University of Athens about Data Analytics. During this program, I gained skills about Data Analysis and Data Structures. All the above-mentioned reasons drove me to start a master in Data Science. During my masters I followed several core courses and elective courses such as Data Mining, Machine Learning and Model identification while several projects give me the opportunity to improve my problem understanding, solving and presentation skills.</h6>
 
 
