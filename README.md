@@ -19,22 +19,21 @@
 ![Views](https://komarev.com/ghpvc/?username=your-github-dimgagw&color=blue)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimgag&hide=Jupyter-Notebook&layout=compact&theme=github_dark)](https://github.com/dimgag)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimgag&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimgag&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/dimgag)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimgag&theme=dracula)](https://git.io/streak-stats)
-
-![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimgag&show_icons=true&theme=dracula)
+<!-- ![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimgag&show_icons=true&theme=dracula) -->
 
 ***
 
 ## **Pinned Repositories**
 <p align="left">
-  <a href="https://github.com/dimgag/deepfood"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=deepfood&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="deepfood"></a>
-  <a href="https://github.com/dimgag/detectron2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=detectron2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="detectron2"></a>
-  <a href="https://github.com/dimgag/Deep_Learning_Emotion_Recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=Deep_Learning_Emotion_Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Deep_Learning_Emotion_Recognition"></a>
-  <a href="https://github.com/dimgag/cpp_practice"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=cpp_practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cpp_practice"></a>
+  <a href="https://github.com/dimgag/deepfood"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=deepfood&theme=github_dark&hide_border=true&show_icons=true" alt="deepfood"></a>
+  <a href="https://github.com/dimgag/detectron2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=detectron2&theme=github_dark&hide_border=true&show_icons=true" alt="detectron2"></a>
+  <a href="https://github.com/dimgag/Deep_Learning_Emotion_Recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=Deep_Learning_Emotion_Recognition&theme=github_dark&hide_border=true&show_icons=true" alt="Deep_Learning_Emotion_Recognition"></a>
+  <a href="https://github.com/dimgag/cpp_practice"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=cpp_practice&theme=github_dark&hide_border=true&show_icons=true" alt="cpp_practice"></a>
+</p>
 
 <p align="left">
   <a href="https://github.com/dimgag?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -88,9 +87,7 @@
   <a href="#"><img alt="PostmanAPI" src="https://img.shields.io/badge/Postman-4A8B99.svg?logo=postman&logoColor=white"></a>
 
 
-
-
-
 ***
-## 𝗚𝗶𝘁𝗛𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀
-[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimgag&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 𝗚𝗶thub Timeline
+[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimgag&theme=gotham&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
+
