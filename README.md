@@ -19,11 +19,11 @@
 ![Views](https://komarev.com/ghpvc/?username=your-github-dimgagw&color=blue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimgag&hide=Jupyter-Notebook&layout=compact&theme=github_dark)](https://github.com/dimgag)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimgag&layout=compact&theme=github_dark)](https://github.com/dimgag/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimgag&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<!-- ![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimgag&show_icons=true&theme=dracula) -->
+![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimgag&show_icons=true&theme=github_dark)
 
 ***
 
