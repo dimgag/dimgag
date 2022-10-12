@@ -83,5 +83,5 @@
 
 ***
 ## 𝗚𝗶thub Timeline
-[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimgag&theme=gotham&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dimitrio's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimgag&theme=gotham&timezone=timezone['Amsterdam'])](https://github.com/ashutosh00710/github-readme-activity-graph)
 
