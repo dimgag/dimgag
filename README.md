@@ -10,8 +10,6 @@
 <a href="https://orcid.org/0000-0001-9302-3153" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-blac?style=flat&logo=orcid&labelColor=gray" alt="dimitrios-gagatsis" /></a>
 <a href="mailto:gagatsis94@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/%40-mail-blue" alt="dimitrios-gagatsis" /></a>
 
-![Views](https://komarev.com/ghpvc/?username=your-github-dimgagw&color=blue)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimgag&layout=compact&theme=github_dark)](https://github.com/dimgag/github-readme-stats)
 
