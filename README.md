@@ -17,15 +17,6 @@
 
 ![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimgag&show_icons=true&theme=github_dark)
 
-***
-
-## **Pinned Repositories**
-<p align="center">
-  <a href="https://github.com/dimgag/deepfood"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=deepfood&theme=github_dark&hide_border=false&show_icons=true" alt="deepfood"></a>
-  <a href="https://github.com/dimgag/detectron2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=detectron2&theme=github_dark&hide_border=false&show_icons=true" alt="detectron2"></a>
-  <a href="https://github.com/dimgag/Deep_Learning_Emotion_Recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=Deep_Learning_Emotion_Recognition&theme=github_dark&hide_border=false&show_icons=true" alt="Deep_Learning_Emotion_Recognition"></a>
-  <a href="https://github.com/dimgag/cpp_practice"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dimgag&repo=cpp_practice&theme=github_dark&hide_border=false&show_icons=true" alt="cpp_practice"></a>
-</p>
 
 <p align="left">
   <a href="https://github.com/dimgag?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
