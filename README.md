@@ -14,19 +14,19 @@
 
 ### 👨🏻‍💻 Projects I am currently working on
 
-* 🧠 [Genuine_Posed_EmotionRecognition](github.com/dimgag/Genuine_Pose...) - A project to detect emotions in posed images (Code will be available soon).
+* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to detect emotions in posed images (Code will be available soon).
 
 
 </td><td valign="top" width="50%">
 
 ### 📚 Projects I worked on
-* 🍔 [Deepfood](github.com/dimgag/deepfood) - A deep learning model to classify food images.
+* 🍔 [Deepfood](https://github.com/dimgag/deepfood) - A deep learning model to classify food images.
 
-* 🔮 [Deep learning emotion recognition](github.com/dimgag/Deep_Learning_Emotion_Recognition) - A deep learning model to classify emotions in images.
+* 🔮 [Deep learning emotion recognition](https://github.com/dimgag/Deep_Learning_Emotion_Recognition) - A deep learning model to classify emotions in images.
 
 * ⚙️ [Machine learning survey](https://github.com/eugeneyan/ml-surveys) - A survey of machine learning papers.
 
-* 📊 [Predict Churn Customer](github.com/dimgag/DM_Predict_Churn_Customer) - A project to predict churn customers.
+* 📊 [Predict Churn Customer](https://github.com/dimgag/DM_Predict_Churn_Customer) - A project to predict churn customers.
 
 </td></tr></table>
 
