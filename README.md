@@ -14,7 +14,7 @@
 
 ### 👨🏻‍💻 Projects I am currently working on
 
-* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to detect emotions in posed images (Code will be available soon).
+* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to identify real and fake emotions in videos (Code will be available soon).
 
 
 </td><td valign="top" width="50%">
