@@ -16,6 +16,7 @@
 
 * 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to identify real and fake emotions in videos (Code will be available soon).
 
+* 🚗 [Stanford Car Classification](https://github.com/dimgag/stanford_car_classification) Classify the Stanford Cars Dataset using Deep Learning models (Code will be available soon).
 
 </td><td valign="top" width="50%">
 
