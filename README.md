@@ -2,8 +2,6 @@
 
 <h4 align="justify"> A master's student in Data Science for Decision making at Maastricht University in the Department of Advanced Computing Sciences. Currently, working on my Master Thesis: "Multi-Label, Multi-Task Deep Learning Approach Towards Detection The Differences Between Real And Fake Emotions". </h4>
 
-<!-- Before starting my master’s at Maastricht University, I studied at the University of Ioannina in the Mathematics Department. I discovered my passion for Computer Science after choosing this specialization and studying relevant courses. Courses like Natural Language Processing, Introduction to Programming and Graph Theory made me more curious to discover more deeply this field. After finishing my bachelor, I started a distance learning program at the University of Athens about Data Analytics. During this program, I gained skills about Data Analysis and Data Structures. All the above-mentioned reasons drove me to start a master in Data Science. During my masters I followed several core courses and elective courses such as Data Mining, Machine Learning and Model identification while several projects give me the opportunity to improve my problem understanding, solving and presentation skills.</h5> -->
-
 
 #### Contact me on: <a href="https://www.linkedin.com/in/dimitriosgagatsis/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=a" alt="dimitrios-gagatsis" /></a> <a href="https://medium.com/@gagatsis94" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="dimitrios-gagatsis" /></a> <a href="https://www.instagram.com/dim__gag/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=a" alt="dimitrios-gagatsis" /></a> <a href="https://orcid.org/0000-0001-9302-3153" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-blac?style=flat&logo=orcid&labelColor=gray" alt="dimitrios-gagatsis" /></a> <a href="mailto:gagatsis94@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/%40-mail-blue" alt="dimitrios-gagatsis" /></a>
 
@@ -91,9 +89,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimgag&theme=github-dark-blue)](https://git.io/streak-stats)
 
 </td></tr></table>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimgag&layout=full&theme=github_dark)](https://github.com/dimgag/github-readme-stats) -->
-
-
-[![Dimitrio's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimgag&theme=gotham&timezone=timezone['Amsterdam'])](https://github.com/ashutosh00710/github-readme-activity-graph)
-
