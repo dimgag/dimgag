@@ -8,16 +8,16 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%"> -->
 
-### 👨🏻‍💻 Projects I am currently working on
-
-* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to identify real and fake emotions in videos (Code will be available soon).
+<!-- ### 👨🏻‍💻 Projects I am currently working on -->
 
 
 </td><td valign="top" width="50%">
 
-### 📚 Projects I worked on
+### 📚 My Projects:
+* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to identify real and fake emotions in videos (Code will be available soon).
+
 * 🚗 [Stanford Car Classification](https://github.com/dimgag/stanford_car_classification) Classify the Stanford Cars Dataset using Deep Learning models.
 
 * 🍔 [Deepfood](https://github.com/dimgag/deepfood) - A deep learning model to classify food images.
