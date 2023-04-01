@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+nerdy+brain+cell!;My+name+is+Dimitrios!;You+can+call+me+dim+^_^;)
 
-<h4 align="justify"> A master's student in Data Science for Decision making at Maastricht University in the Department of Advanced Computing Sciences. Currently, working on my Master Thesis: "Multi-Label, Multi-Task Deep Learning Approach Towards Detection The Differences Between Real And Fake Emotions". </h4>
+<h4 align="justify"> A Mathematician & Data Scientist, highly motivated and passionate individual with a keen interest in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. Through my academic and professional experiences, I have developed strong skills in programming, data analysis, and problem-solving. On this Github profile, you will find a collection of my projects and contributions, which showcase my expertise and passion for data science.</h4>
+
+
 
 #### Reach me:  
 <a href="https://www.linkedin.com/in/dimitriosgagatsis/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=a" alt="dimitrios-gagatsis" /></a> <a href="https://medium.com/@gagatsis94" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="dimitrios-gagatsis" /></a> <a href="https://orcid.org/0000-0001-9302-3153" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-blac?style=flat&logo=orcid&labelColor=gray" alt="dimitrios-gagatsis" /></a> <a href="mailto:gagatsis94@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/%40-mail-blue" alt="dimitrios-gagatsis" /></a>
