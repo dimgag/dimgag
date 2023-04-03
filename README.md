@@ -18,7 +18,7 @@
 </td><td valign="top" width="50%">
 
 ### 📚 My Projects:
-* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - A project to identify real and fake emotions in videos (Code will be available soon).
+* 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - Master Thesis project to identify real and fake emotions in videos.
 
 * 🚗 [Stanford Car Classification](https://github.com/dimgag/stanford_car_classification) Classify the Stanford Cars Dataset using Deep Learning models.
 
