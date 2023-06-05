@@ -18,6 +18,8 @@
 </td><td valign="top" width="50%">
 
 ### 📚 My Projects:
+* 💸 [Credit-scorecard Development](https://github.com/dimgag/credit-scorecard) - Credit scorecard development for bank loan approval.
+
 * 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - Master Thesis project to identify real and fake emotions in videos.
 
 * 🚗 [Stanford Car Classification](https://github.com/dimgag/stanford_car_classification) Classify the Stanford Cars Dataset using Deep Learning models.
