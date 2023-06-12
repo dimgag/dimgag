@@ -81,19 +81,14 @@
 
 
 <!-- Second Table -->
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%"> -->
 
 
 
-
+<!-- 
 ![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimgag&show_icons=true&theme=github_dark)
 
 
 </td><td valign="top" width="50%">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimgag&theme=github-dark-blue)](https://git.io/streak-stats)
-
-</td></tr></table>
-
-
-[![Contribution snake Dark](https://raw.githubusercontent.com/licongguan/licongguan/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimgag&theme=github-dark-blue)](https://git.io/streak-stats) -->
