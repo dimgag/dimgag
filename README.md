@@ -73,7 +73,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-4A8B99.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-4A8B99.svg?logo=RStudio&logoColor=white"></a>
   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-4A8B99.svg?logo=Powerbi&logoColor=white"></a>
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-4A8B99.svg?logo=Tableau&logoColor=white"></a>    d
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-4A8B99.svg?logo=Tableau&logoColor=white"></a>
   <a href="#"><img alt="PostmanAPI" src="https://img.shields.io/badge/Postman-4A8B99.svg?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4A8B99.svg?logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-4A8B99.svg?logo=kubernetes&logoColor=white"></a>
