@@ -38,42 +38,45 @@
 <table><tr><td valign="top" width="50%">
 
 #### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=c%?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-00172D.svg?logo=R&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-0052A2.svg?logo=HTML&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-4A8B99.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-4A8B99?logo=c%?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-4A8B99.svg?logo=R&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-4A8B99.svg?logo=database&logoColor=white"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-4A8B99.svg?logo=markdown&logoColor=white"></a>
+  <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-4A8B99.svg?logo=HTML&logoColor=white"></a>
   
   
 #### ⚙️ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white"></a>
-  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-44A6CC.svg?logo=plotly-python&logoColor=white"></a>
-  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white"></a>
-  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-DDF5FF.svg?logo=Pytorch&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4A8B99.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-4A8B99.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-4A8B99.svg?logo=matplotlib-python&logoColor=white"></a>
+  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-4A8B99.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-4A8B99.svg?logo=plotly-python&logoColor=white"></a>
+  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4A8B99.svg?logo=scipy&logoColor=white"></a>
+  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-4A8B99.svg?logo=scikitlearn&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-4A8B99.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-4A8B99.svg?logo=Keras&logoColor=white"></a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4A8B99.svg?logo=Pytorch&logoColor=white"></a>
 
 </td><td valign="top" width="50%">
 
 #### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 
-  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-99E2FF.svg?logo=sqlite&logoColor=white"></a>
-  <a href="#"><img alt="OracleSQL" src="https://img.shields.io/badge/OracleSQL-BBECFF.svg?logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-4A8B99.svg?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="OracleSQL" src="https://img.shields.io/badge/OracleSQL-4A8B99.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4A8B99.svg?logo=mysql&logoColor=white"></a>
   
 
 #### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-315C66.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-4A8B99.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-4A8B99.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-4A8B99.svg?logo=RStudio&logoColor=white"></a>
   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-4A8B99.svg?logo=Powerbi&logoColor=white"></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-4A8B99.svg?logo=Tableau&logoColor=white"></a>    d
   <a href="#"><img alt="PostmanAPI" src="https://img.shields.io/badge/Postman-4A8B99.svg?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4A8B99.svg?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-4A8B99.svg?logo=kubernetes&logoColor=white"></a>
 
 </td></tr></table>
 
