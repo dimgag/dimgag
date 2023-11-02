@@ -18,6 +18,8 @@
 </td><td valign="top" width="50%">
 
 ### 📚 My Projects:
+* 🔮 [Time Series Forecasting for the number of store transactions](https://github.com/dimgag/time-series-forecasting-store-transactions) - EDA, time-series analyis, trend, seasonality and stationarity check and forecasting with FbProphet model. (In progress...)
+
 * 💸 [Credit-scorecard Development](https://github.com/dimgag/credit-scorecard) - Credit scorecard development for bank loan approval.
 
 * 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - Master Thesis project to identify real and fake emotions in videos.
@@ -26,7 +28,7 @@
 
 * 🍔 [Deepfood](https://github.com/dimgag/deepfood) - A deep learning model to classify food images.
 
-* 🔮 [Deep learning emotion recognition](https://github.com/dimgag/Deep_Learning_Emotion_Recognition) - A deep learning model to classify emotions in images.
+* 🤔 [Deep learning emotion recognition](https://github.com/dimgag/Deep_Learning_Emotion_Recognition) - A deep learning model to classify emotions in images.
 
 * ⚙️ [Machine learning survey](https://github.com/eugeneyan/ml-surveys) - A survey of machine learning papers.
 
