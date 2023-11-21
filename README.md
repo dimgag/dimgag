@@ -18,7 +18,7 @@
 </td><td valign="top" width="50%">
 
 ### 📚 My Projects:
-* 🔮 [Time Series Forecasting for the number of store transactions](https://github.com/dimgag/time-series-forecasting-store-transactions) - EDA, time-series analyis, trend, seasonality and stationarity check and forecasting with FbProphet model. (In progress...)
+* 🔮 [Time Series Forecasting for the number of store transactions](https://github.com/dimgag/time-series-forecasting-store-transactions) - EDA, time-series analyis, trend, seasonality and stationarity analysis and forecasting. (In progress...)
 
 * 💸 [Credit-scorecard Development](https://github.com/dimgag/credit-scorecard) - Credit scorecard development for bank loan approval.
 
