@@ -2,7 +2,7 @@ title: Dimitrios Gagatsis
 # description: >- # this means to ignore newlines until "baseurl:
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dimgag.github.io" 
-
+logo: /assets/img/profile_img.jpg
 show_downloads: true
 # Build settings
 theme: jekyll-theme-minimal
