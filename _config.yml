@@ -1,25 +1,8 @@
-title:              Dimitrios Gagatsis
-email:              gagatsis94@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Dimitrios Gagatsis
-baseurl:            "/dimitrios-gagatsis.github.io"
-url:                "https://dimitrios-gagatsis.github.io"
-
-# Social Profiles
-# twitter_username:   SBootstrap
-github_username:    dimgag
-# facebook_username:  
-# instagram_username:  
-linkedin_username: dimitrios-gagatsis
-
-# Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
-
+title: Dimitrios Gagatsis
+# description: >- # this means to ignore newlines until "baseurl:
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dimgag.github.io" 
+logo: /assets/img/profile_img.jpg
+show_downloads: true
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+theme: jekyll-theme-minimal
