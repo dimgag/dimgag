@@ -30,7 +30,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!-- <table><tr><td valign="top" width="50%"> -->
+
 
 #### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-4A8B99.svg?logo=python&logoColor=white"></a>
@@ -52,7 +52,7 @@
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-4A8B99.svg?logo=Keras&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4A8B99.svg?logo=Pytorch&logoColor=white"></a>
   <a href="#"><img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-4A8B99.svg?logo=statsmodels&logoColor=white"></a>
-</td><td valign="top" width="50%">
+
 
 #### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 
@@ -72,6 +72,3 @@
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4A8B99.svg?logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-4A8B99.svg?logo=kubernetes&logoColor=white"></a>
 
-</td></tr></table>
-
----------
