@@ -3,6 +3,6 @@ title: Dimitrios Gagatsis
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dimgag.github.io" 
 logo: /assets/img/profile_img.jpg
-show_downloads: true
+show_downloads: false
 # Build settings
 theme: jekyll-theme-minimal
