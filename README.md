@@ -11,19 +11,19 @@
 ### 📚 My Projects:
 * 🔮 [Time Series Forecasting for the number of store transactions](https://github.com/dimgag/time-series-forecasting-store-transactions) - EDA, time-series analyis, trend, seasonality and stationarity analysis and forecasting. (In progress...)
 
-* 💸 [Credit-scorecard Development](https://github.com/dimgag/credit-scorecard) - Credit scorecard development for bank loan approval.
+* 💸 [Credit-scorecard Development](https://github.com/dimgag/credit-scorecard) - Credit scorecard development for bank loan approval. Includes data analysis, data visualization, feature selection and feature engineering, and model evaluation with Gini coefficient.
 
 * 🧠 [Genuine_Posed_EmotionRecognition](https://github.com/dimgag/Genuine_Posed_EmotionRecognition) - Master Thesis project to identify real and fake emotions in videos.
 
 * 🚗 [Stanford Car Classification](https://github.com/dimgag/stanford_car_classification) Classify the Stanford Cars Dataset using Deep Learning models.
 
-* 🍔 [Deepfood](https://github.com/dimgag/deepfood) - A deep learning model to classify food images.
+* 🍔 [Deepfood](https://github.com/dimgag/deepfood) - A deep learning model to classify food images with CNNs (EfficientNet-V2).
 
-* 🤔 [Deep learning emotion recognition](https://github.com/dimgag/Deep_Learning_Emotion_Recognition) - A deep learning model to classify emotions in images.
+* 🤔 [Deep learning emotion recognition](https://github.com/dimgag/Deep_Learning_Emotion_Recognition) - A deep learning model to classify emotions in images with CNNs.
 
 * ⚙️ [Machine learning survey](https://github.com/eugeneyan/ml-surveys) - A survey of machine learning papers.
 
-* 📊 [Predict Churn Customer](https://github.com/dimgag/DM_Predict_Churn_Customer) - A project to predict churn customers.
+* 📊 [Predict Churn Customer](https://github.com/dimgag/DM_Predict_Churn_Customer) - A project to predict churn customer in Telco company with Machine Learning, Classification models. Includes data analysis, data visualization, feature selection, and model evaluation and comparison.
 
 
 
